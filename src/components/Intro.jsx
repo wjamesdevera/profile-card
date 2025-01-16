@@ -3,10 +3,10 @@ const Intro = () => {
     <div>
       <h1>Winfrey De Vera</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod, harum.
-        Cum odit cupiditate, maxime expedita inventore quisquam iste, ratione
-        veniam magnam autem accusantium, explicabo vel in nihil quia nam.
-        Laborum?
+        Aspiring full-stack developer and data scientist passionate about coding
+        and technology. I enjoy solving complex problems and staying updated
+        with industry trends. When I’m not coding, I unwind with my favorite
+        playlist, fueling my creativity.
       </p>
     </div>
   );
